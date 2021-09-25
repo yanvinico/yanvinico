@@ -1,5 +1,5 @@
 <h2>Olá! Eu Sou o Yan <img src="https://media.giphy.com/media/0luWy8p6oKImZt41tz/giphy.gif" width="30"></h2>
-<img align="right" alt="Gbz-gif" height="150" style="border-radius:10px;" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
+<img align="right" alt="Gbz-gif" height="110" style="border-radius:10px;" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
 <br>
 
 
